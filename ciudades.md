@@ -6,3 +6,4 @@
 4. Huancavelica
 5. Trujillo
 6. Cajamarca
+7. Puno
